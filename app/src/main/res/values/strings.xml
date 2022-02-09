@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShareDataToFacebook</string>
+    <!--
+        On the Dashboard, navigate to Settings > Basic > App ID.
+    -->
+    <string name="facebook_app_id">ENTER YOUR APP ID</string>
+    <!--
+        On the Dashboard, navigate to Settings > Advanced > Security > Client token.
+    -->
+    <string name="facebook_client_token">ENTER YOUR CLIENT TOKEN</string>
+
+</resources>
